@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumit444-commits" alt="sumit444-commits" /></a> </p>
 
-- 🔭 I’m currently working on **NIN&AHSM**
-
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [sumit-portfolio.free.nf](sumit-portfolio.free.nf)
 
