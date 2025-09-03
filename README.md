@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [sumit-portfolio.free.nf](sumit-portfolio.free.nf)
+- 👨‍💻 All of my projects are available at [PortFolio](www.sumitsharma.codes)
 
-- 💬 Ask me about **nextjs, java, python, frontend development, cpp**
+- 💬 Ask me about **nodejs, python, frontend development, cpp, java**
 
-- 📫 How to reach me **sumit8444061@gmail.com**
+- 📫 How to reach me **sharma.sumit.6574@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JMMP-FKwvFVldtzdlWYc-6gEYvEyskcR/view?usp=sharing](https://drive.google.com/file/d/1JMMP-FKwvFVldtzdlWYc-6gEYvEyskcR/view?usp=sharing)
 
